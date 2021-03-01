@@ -1,6 +1,7 @@
 # Resources
 
 https://metamug.com/amp/java/build-run-java-maven-project-command-line.html
+https://maven.apache.org/plugins/index.html
 https://maven.apache.org/guides/introduction/introduction-to-the-pom.html
 https://maven.apache.org/pom.html
 https://maven.apache.org/pom.html#properties
@@ -8,10 +9,19 @@ https://www.baeldung.com/maven-java-version
 
 https://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-the-java-cycle/
 https://clojure.org/reference/compilation
+https://clojure.org/guides/deps_and_cli#aot_compilation
 https://clojure.org/reference/java_interop#_calling_clojure_from_java
 https://mvnrepository.com/artifact/org.clojure/clojure/1.10.2
 https://clojure.github.io/clojure/javadoc/
 https://github.com/seancorfield/depstar#aot-compilation
+https://stackoverflow.com/questions/11174459/reason-for-skipping-aot
+https://leonardoborges.com/writings/2012/09/10/clojure-leiningen-heroku-aot-compilation-gotchas/
+https://gamlor.info/posts-output/2019-10-24-compile-java-with-clojure-deps/en/
+
+https://github.com/clojure/tools.deps.alpha/wiki/Tools
+https://github.com/JamesLaverack/cljfmt-runner
+https://github.com/clojure/tools.deps.alpha/wiki/SSH-Authentication-in-Docker
+https://docs.docker.com/develop/develop-images/build_enhancements/#using-ssh-to-access-private-data-in-builds
 
 # Exploration log
 
